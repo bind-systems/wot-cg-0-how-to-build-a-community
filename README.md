@@ -1,3 +1,13 @@
+
+# WoT CG Meeting 01: How to build a community
+
+Option 1: Clone, init, start server and open in firefox
+`git clone https://github.com/bind-systems/wot-cg-0-how-to-build-a-community.git && npm init && npm run start && firefox http://[::1]:8000`
+
+Option 2: [Open PDF](assets/wot-cg-0-how-to-build-a-community.pdf)
+
+
+========= Upstream ===========
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
